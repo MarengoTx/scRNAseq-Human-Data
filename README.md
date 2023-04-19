@@ -1,9 +1,8 @@
 ## Table of Contents
 
 1. [Main Description](#main-description)
-2. [File Descriptions](#file-descriptions)
-3. [Linked Files](#linked-files)
-4. [Installation and Instructions](#installation-and-instructions)
+2. [Linked Files](#linked-files)
+3. [Installation and Instructions](#installation-and-instructions)
 
 &nbsp;
 &nbsp;
@@ -35,18 +34,6 @@ ComplexHeatmap
 &nbsp;
 &nbsp;
 
-
-
-
-### **File Descriptions**
----------------------------
-
-The **code** can be downloaded and opened in **RStudios**. </br>
-
-
-&nbsp;
-&ensp;
-&ensp;
 
 ### **Linked Files**
 ---------------------
