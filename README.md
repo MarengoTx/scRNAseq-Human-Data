@@ -16,7 +16,7 @@
 ### **Main Description**
 ------------------------
 
-This is the GitHub repository for the single cell RNA sequencing data analysis for the human manuscript titled.
+This is the GitHub repository for the single cell RNA sequencing data analysis for the human manuscript.
 
 The following essential libraries are required for script execution:
 
@@ -50,11 +50,9 @@ This repository contains code for the analysis of single cell RNA-seq dataset. T
 2. Sequence read archive (SRA) repository
     - **Title**: Gene expression profile at single cell level of human T cells stimulated via antibodies against the T Cell Receptor (TCR)
    - **Description**:  This submission contains the **raw sequencing** or `.fastq.gz` files, which are tab delimited text files. 
-   - **Submission type**: Private. In order to gain access to the repository, you must use a [reviewer token](https://www.ncbi.nlm.nih.gov/geo/info/reviewer.html).
+   - **Submission type**: Private. In order to gain access to the repository, you must use a [reviewer token](https://www.ncbi.nlm.nih.gov/geo/info/reviewer.html). Please note that since the GSE submission is private, the raw data deposited at SRA may not be accessible until the embargo on GSE229626 has been lifted. 
    
 &ensp;
-
-
 &nbsp;
 &ensp;
 &nbsp;
